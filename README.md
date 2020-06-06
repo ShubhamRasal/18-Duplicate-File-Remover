@@ -6,5 +6,5 @@ It is tool that detects duplicate file from selected folder. Also gives the list
 ##Home
 ![](images/Main.JPG)
 
-##After Deletet
-![](images/After deleted.JPG)
+##After Delete
+![](images/After%20deleted.JPG)
